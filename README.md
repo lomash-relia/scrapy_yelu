@@ -1,2 +1,2 @@
 # scrapy_yelu
-Scrapy project on scraping Yelu website
+Scrapy pipeline project on scraping Yelu website
